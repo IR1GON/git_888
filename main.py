@@ -1,6 +1,6 @@
 import sys
 import time
-#start in the terminal - 'python main.py 10(number of seconds)'
+
 def print_time(seconds):
     for i in range(seconds):
         print(f"Time: {i + 1} second(s)")
